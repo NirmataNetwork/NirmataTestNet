@@ -18,3 +18,4 @@
 <p>Run nirmatad, after starting the daemon, enter the command in its window, start_mining "your address" 1, this command will start the mining process using one core of your processor, just wait for the solutions for which you will receive a reward and be able to enable pos in your wallet. </p>
 <p>Do not run at the same time Nirmata.exe/Nirmata.sh and nirmatad, they won't work like that.</p>
 <h2>Remember, coins in the test network are worthless, they cannot be sold or transferred to the main network.</h2>
+<h2>Do not run the test and main network nodes at the same time, conflicts may occur.</h2>
